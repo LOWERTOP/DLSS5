@@ -1,4 +1,4 @@
-"""Portable DLSS 5 Visual Enhancer for images and video."""
+"""Portable Visual Enhancer for images and video."""
 
 from .core.ffmpeg import probe_video
 from .neural_rendering.image import (
