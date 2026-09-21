@@ -4,7 +4,7 @@
 
 **Visual Enhancer** is a portable Windows application for AI-assisted image and video enhancement on NVIDIA RTX GPUs. It uses **NVIDIA DLSS 5 Neural Rendering** through the **Neuroframe Engine** for image and video processing, **NVIDIA DLSS Frame Generation** for video frame interpolation, and **NVIDIA RTX Video Super Resolution** and **RTX Video HDR** for dedicated upscale workflows. Live mode brings DLSS 5 Neural Rendering to local videos and supported online streams during playback.
 
-<img width="3840" height="2160" alt="Main Cover" src="https://github.com/user-attachments/assets/9354a287-2d21-4dee-9ca6-3d1cf2c69888" />
+<img width="1920" height="1080" alt="Main Cover_v2" src="https://github.com/user-attachments/assets/9248c946-391e-408c-b146-f7d8a6e9c695" />
 
 ## Installation
 
